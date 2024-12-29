@@ -1,0 +1,4 @@
+zone "sample.lan" {
+    type master;
+    file "/etc/bind/db.sample.lan";
+};
